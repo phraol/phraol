@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm PHRAOL </h1>
 <h3 align="center"></h3>
-....................... 
-.......................                                         
+                                    
 - 💬 Ask me about **c++ and java**
 
 - ⚡
 
-<h3 align="left">Connect with me:</h3>
 
 
 
